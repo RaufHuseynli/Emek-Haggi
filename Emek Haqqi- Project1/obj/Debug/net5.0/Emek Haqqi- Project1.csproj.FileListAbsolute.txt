@@ -1,0 +1,16 @@
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.exe
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.deps.json
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.runtimeconfig.json
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.runtimeconfig.dev.json
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.dll
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\ref\Emek Haqqi- Project1.dll
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\bin\Debug\net5.0\Emek Haqqi- Project1.pdb
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.csproj.AssemblyReference.cache
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.AssemblyInfoInputs.cache
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.AssemblyInfo.cs
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.csproj.CoreCompileInputs.cache
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.dll
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\ref\Emek Haqqi- Project1.dll
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.pdb
+C:\Users\Rauf\source\repos\Emek Haqqi- Project1\Emek Haqqi- Project1\obj\Debug\net5.0\Emek Haqqi- Project1.genruntimeconfig.cache
